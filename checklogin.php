@@ -39,7 +39,7 @@ header("location:index2.php");
 exit;
 }
 else {
-header("location:index.php");
+header("location:index.html");
 }
 ob_end_flush();
 
